@@ -1,3 +1,11 @@
 body {
 font-family: 'georgia';
  }
+ 
+ div {
+ background-color: rgb(34, 12, 64);
+ padding: 10px;
+ border: 50px dotted #2E4754
+ }
+ 
+ 
